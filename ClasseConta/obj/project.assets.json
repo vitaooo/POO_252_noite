@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Victor\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\fafa\\POO_252_noite\\classeConta\\classeConta.csproj",
-      "projectName": "classeConta",
-      "projectPath": "C:\\fafa\\POO_252_noite\\classeConta\\classeConta.csproj",
-      "packagesPath": "C:\\Users\\Victor\\.nuget\\packages\\",
-      "outputPath": "C:\\fafa\\POO_252_noite\\classeConta\\obj\\",
+      "projectUniqueName": "C:\\Users\\aluno\\Desktop\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
+      "projectName": "ClasseConta",
+      "projectPath": "C:\\Users\\aluno\\Desktop\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aluno\\Desktop\\POO_252_noite\\ClasseConta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
