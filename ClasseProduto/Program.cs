@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-﻿
-
-=======
 ﻿using ClasseProduto;
 internal class Program
 {
@@ -29,4 +25,3 @@ internal class Program
         p1.MostrarAtributos();
     }
 }
->>>>>>> c942e38984d80e60a555deb455becbb23f7d1567

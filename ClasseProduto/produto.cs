@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class produto() {
     private int codigo;
     private string nome;
