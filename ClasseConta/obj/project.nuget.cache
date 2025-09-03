@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6bnBvAVYlLE=",
+=======
+  "dgSpecHash": "1bI7ppghG6c=",
+>>>>>>> c942e38984d80e60a555deb455becbb23f7d1567
   "success": true,
-  "projectFilePath": "C:\\fafa\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
+  "projectFilePath": "C:\\Users\\aluno\\Desktop\\POO_252_noite\\ClasseConta\\ClasseConta.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "TdOdgV5dvcA=",
+=======
+  "dgSpecHash": "m2Kuyi1cRuM=",
+>>>>>>> c942e38984d80e60a555deb455becbb23f7d1567
   "success": true,
-  "projectFilePath": "C:\\fafa\\POO_252_noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
+  "projectFilePath": "D:\\POO_252_noite\\ClasseFuncionario\\ClasseFuncionario.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class produto() {
     private int codigo;
     private string nome;
@@ -18,6 +19,6 @@ class produto() {
     }
 
     public void retirarEstoque(int codigo, int qtd) {
-        if (codigo)
+        
     }
 }
