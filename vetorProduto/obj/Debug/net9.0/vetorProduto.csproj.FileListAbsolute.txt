@@ -1,0 +1,15 @@
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.AssemblyInfoInputs.cache
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.AssemblyInfo.cs
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.csproj.CoreCompileInputs.cache
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.sourcelink.json
+C:\fafa\POO_252_noite\vetorProduto\bin\Debug\net9.0\vetorProduto.exe
+C:\fafa\POO_252_noite\vetorProduto\bin\Debug\net9.0\vetorProduto.deps.json
+C:\fafa\POO_252_noite\vetorProduto\bin\Debug\net9.0\vetorProduto.runtimeconfig.json
+C:\fafa\POO_252_noite\vetorProduto\bin\Debug\net9.0\vetorProduto.dll
+C:\fafa\POO_252_noite\vetorProduto\bin\Debug\net9.0\vetorProduto.pdb
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.dll
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\refint\vetorProduto.dll
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.pdb
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\vetorProduto.genruntimeconfig.cache
+C:\fafa\POO_252_noite\vetorProduto\obj\Debug\net9.0\ref\vetorProduto.dll
