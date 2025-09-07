@@ -12,6 +12,8 @@ namespace vetorProduto
         private double preco;
         private int estoque;
 
+        private double subTotal;
+
         public int Codigo
         {
             get { return codigo; }
@@ -35,33 +37,39 @@ namespace vetorProduto
             set { this.estoque = value; }
         }
 
+        public int SubTotal
+        {
+            get { return subTotal; }
+        }
+
+
         public void MostrarAtributos()
         {
-            System.Console.WriteLine("Código: " + codigo + "Nome: " + nome + " preço: " + preco + "Estoque é: " + estoque);
+            System.Console.WriteLine("Código: " + codigo);
+            System.Console.WriteLine("Nome: " + nome);
+            System.Console.WriteLine("Preço: RS" + preco.ToString("F2"));
+            System.Console.WriteLine("Estoque: " + estoque);
         }
 
         public void CalcularAumento(double p)
         {
-            this.Preco = Preco + ((p / 100) * Preco);
+            preco = preco + (preco * (p / 100));
             System.Console.WriteLine("O novo preço após o aumento é: " + Preco);
-        }
-
-        public void CalcularSubtotal()
-        {
-            float subtotal;
-
         }
 
         public void RetirarEstoque(int qtde)
         {
-            if (this.Estoque > 1 && qtde == this.Estoque)
-            {
-                this.Estoque -= qtde;
-            }
-            else
-            {
-                System.Console.WriteLine("Não pode retirar mais do que temos no estoque!");
-            }
+            estoque = estoque - qtde;
+        }
+
+        public void CalcularSubTotal()
+        {
+            Console.WriteLine("Código: " + codigo);
+            Console.WriteLine("Nome: " + nome);
+            subtotal = preco * estoque;
+            Console.WriteLine("Preço: " + preco.ToString("F2"));
+            Console.WriteLine("Quantidade em Estoque: " + estoque);
+            Console.WriteLine("Subtotal: " + subtotal.ToString("F2"));
         }
 
 
