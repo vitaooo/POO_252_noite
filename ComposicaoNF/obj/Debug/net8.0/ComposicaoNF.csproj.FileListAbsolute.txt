@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.sourcelink.json
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\bin\Debug\net8.0\ComposicaoNF.exe
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\bin\Debug\net8.0\ComposicaoNF.deps.json
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\bin\Debug\net8.0\ComposicaoNF.runtimeconfig.json
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\bin\Debug\net8.0\ComposicaoNF.dll
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\bin\Debug\net8.0\ComposicaoNF.pdb
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.dll
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\refint\ComposicaoNF.dll
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.pdb
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ComposicaoNF.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO_252_noite\ComposicaoNF\obj\Debug\net8.0\ref\ComposicaoNF.dll

@@ -12,8 +12,11 @@ namespace ComposicaoNF
 
         public NotaFiscal(int nf, string data)
         { // inicializa os atributos da classe
+            // No momento da instância do objeto-todo que é a NotaFiscal,
+            // a instância da relação/associação DEVE ser realizada/estabelecida
+            VetItens = new List<ItemNotaFiscal>();
             NumeroNF = nf;
-            Data  data;
+            Data = data;
         }
 
         ~NotaFiscal() // o destrutor retirará a referência de memória do vetor instanciado.
