@@ -64,7 +64,7 @@ namespace vetorProduto
             if(qtde <= estoque){
                 estoque = estoque - qtde;
             } else {
-                System.Console.WriteLine($"Erro: Estoque insuficiente para o produto: '{nome}'. Disponível: {estoque}, tentativa de retirada: {qtde}.");
+                System.Console.WriteLine($"Erro: Estoque insuficiente para o produto: {nome}. Disponível: {estoque}, tentativa de retirada: {qtde}.");
             }
         }
 
