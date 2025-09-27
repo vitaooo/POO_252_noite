@@ -60,5 +60,11 @@ namespace EncapsulamentoEstudante
         {
             System.Console.WriteLine(Nome + " " + Nota);
         }
+
+        public void ExibirInformacoes()
+        {
+            string status = EstaAprovado() ? "Aprovado!" : "Reprovado!";
+            System.Console.WriteLine("Status: " + status);
+        }
     }
 }

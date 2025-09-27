@@ -1,0 +1,15 @@
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.GeneratedMSBuildEditorConfig.editorconfig
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.AssemblyInfoInputs.cache
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.AssemblyInfo.cs
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.csproj.CoreCompileInputs.cache
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.sourcelink.json
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.exe
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.deps.json
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.runtimeconfig.json
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.dll
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\bin\Debug\net9.0\EncapsulamentoEstudante.pdb
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.dll
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\refint\EncapsulamentoEstudante.dll
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.pdb
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\EncapsulamentoEstudante.genruntimeconfig.cache
+C:\fafa\POO_252_noite\EncapsulamentoEstudante\obj\Debug\net9.0\ref\EncapsulamentoEstudante.dll
