@@ -1,0 +1,15 @@
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.AssemblyInfo.cs
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.sourcelink.json
+C:\fafa\POO_252_noite\ConstrutorAluno\bin\Debug\net9.0\ConstrutorAluno.exe
+C:\fafa\POO_252_noite\ConstrutorAluno\bin\Debug\net9.0\ConstrutorAluno.deps.json
+C:\fafa\POO_252_noite\ConstrutorAluno\bin\Debug\net9.0\ConstrutorAluno.runtimeconfig.json
+C:\fafa\POO_252_noite\ConstrutorAluno\bin\Debug\net9.0\ConstrutorAluno.dll
+C:\fafa\POO_252_noite\ConstrutorAluno\bin\Debug\net9.0\ConstrutorAluno.pdb
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.dll
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\refint\ConstrutorAluno.dll
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.pdb
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ConstrutorAluno.genruntimeconfig.cache
+C:\fafa\POO_252_noite\ConstrutorAluno\obj\Debug\net9.0\ref\ConstrutorAluno.dll
