@@ -15,16 +15,16 @@ namespace EncapsulamentoEstudante
             }
             set
             {
-               if (!string.IsNullOrWhiteSpace(value)){
+                if (!string.IsNullOrWhiteSpace(value))
+                {
                     nome = value;
                 }
-                else{
+                else
+                {
                     System.Console.WriteLine("Nome inválido! Não pode ser vazio.");
-                    }
                 }
             }
         }
-
         public int Nota
         {
             get
