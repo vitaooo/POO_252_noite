@@ -1,0 +1,15 @@
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.AssemblyInfo.cs
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.sourcelink.json
+C:\fafa\POO_252_noite\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.exe
+C:\fafa\POO_252_noite\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.deps.json
+C:\fafa\POO_252_noite\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.runtimeconfig.json
+C:\fafa\POO_252_noite\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.dll
+C:\fafa\POO_252_noite\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.pdb
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.dll
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\refint\ComposicaoBanco.dll
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.pdb
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.genruntimeconfig.cache
+C:\fafa\POO_252_noite\ComposicaoBanco\obj\Debug\net9.0\ref\ComposicaoBanco.dll

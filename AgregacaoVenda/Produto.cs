@@ -1,20 +1,55 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace AgregacaoVenda
 {
     public class Produto
     {
-        public int codigo;
-        public string nome;
-        public double preco;
+        private static int proximoCodigo;
+        private int codigo;
+        private string nome = string.Empty;
+        private double preco;
 
-        public MostrarAtributos()
+        static Produto()
         {
-            return codigo + " " + nome + " " + preco;
+            proximoCodigo = 500;
         }
 
+        public Produto(string nome, double preco)
+        {
+            this.codigo = proximoCodigo++;
+            this.Nome = nome;
+            this.preco = preco;
+        }
+
+        public int Codigo
+        {
+            get{ return codigo; }
+        }
+
+        public string Nome
+        {
+            get { return nome; }
+            set { nome = value;  }
+        }
+
+        public double Preco
+        {
+            get { return preco; }
+            set
+            {
+                if (value > 0)
+                {
+                    preco = value;
+                }
+                else
+                {
+                    System.Console.WriteLine("Informe um valor positivo!");
+                    preco = 0;
+                }
+            }
+        }
+
+        public string MostrarAtributos()
+        {
+            return $"Código: {this.Codigo} Nome: {Nome} Preço: {Preco:C}";
+        }
     }
 }

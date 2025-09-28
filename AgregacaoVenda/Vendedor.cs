@@ -1,17 +1,27 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace AgregacaoVenda
 {
     public class Vendedor
     {
-        public double comissao;
+        private double comissao;
 
-        public MostrarAtributo()
+        public Vendedor()
         {
-            return comissao;
+            this.comissao = 0;
+        }
+
+        public double Comissao
+        {
+            get { return comissao; }
+        }
+
+        public void AdicionarComissao(double precoProduto)
+        {
+            this.comissao += precoProduto * 0.02;
+        }
+
+        public string MostrarAtributo()
+        {
+            return $"Comissão do Vendedor: {this.Comissao:C}";
         }
     }
 }

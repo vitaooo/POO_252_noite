@@ -1,0 +1,15 @@
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.AssemblyInfoInputs.cache
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.AssemblyInfo.cs
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.csproj.CoreCompileInputs.cache
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.sourcelink.json
+C:\fafa\POO_252_noite\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.exe
+C:\fafa\POO_252_noite\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.deps.json
+C:\fafa\POO_252_noite\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.runtimeconfig.json
+C:\fafa\POO_252_noite\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.dll
+C:\fafa\POO_252_noite\AgregacaoVenda\bin\Debug\net9.0\AgregacaoVenda.pdb
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.dll
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\refint\AgregacaoVenda.dll
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.pdb
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\AgregacaoVenda.genruntimeconfig.cache
+C:\fafa\POO_252_noite\AgregacaoVenda\obj\Debug\net9.0\ref\AgregacaoVenda.dll
