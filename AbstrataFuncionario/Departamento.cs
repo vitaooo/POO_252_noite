@@ -48,5 +48,9 @@ namespace AbstrataFuncionario
             }
             return folha;
         }
+
+        public void MostrarQtdeDependentesFuncionario(){
+            
+        }
     }
 }

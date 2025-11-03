@@ -7,9 +7,9 @@ namespace Dependente
 {
     public class Dependente : Funcionario
     {
-        public int codigo;
-        public string nome;
-        public int idade;
+        public int codigo {get; set;}
+        public string nome {get; set;}
+        public int idade {get; set;}
 
         public Dependente(int Codigo, string Nome, int Idade){
             codigo = Codigo;
