@@ -32,7 +32,7 @@ namespace AbstrataCliente
         }        
         // o método abstrato NÃO PODE ter nenhuma
         // linha de lógica de programação
-        public abstract void VerificarIdade();        
+        public abstract void VerificarIdade();
         public Cliente(int codigo, string nome, int idade)
         {
             Codigo = codigo;  

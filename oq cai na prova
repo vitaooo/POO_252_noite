@@ -1,0 +1,51 @@
+o que não cai:
+Atributo e método static
+
+Conteúdo da prova:
+Herança
+ - construtor
+ - encapsulamento 
+  - protected
+Polimorfismo
+ - estático (na mesma classe ) (tempo de compilação) não tem palavra reservada
+    - métodos somente
+
+ - dinâmico (tempo de execução) tem palavra reservada, classes diferentes.
+    - métodos somente
+    - virtual - superclasse ou classe base
+    - override - subclasse
+
+chamando o construtor : base()
+
+base.Método // reaproveitando métodos q estão na base
+
+
+Classe abstrata não pode ser instanciada
+métodos concretos (com lógica)
+
+método abstrato (com ou sem lógica)
+na classe base -> abstract ( assinatura )
+    tipo(void, return, int, string) nomemetodo(pode ter parâmetro ou não);
+
+na filha ->
+void nomemetodo(parametro){
+    dar escopo e escrever a lógica;
+}
+
+- interface
+só tem métodos implícitos abstratos
+linha TRACEJADA
+qualquer classe pode utilizar o método da interface
+se qualquer classe puxar esse método abstrato, você tem que implementar na classe filha, mas ela em si não o faz nada
+ele aceita isso:
+Interface1 i1 = new Produto();
+o i1 não pode ler e utilizr os atributos da classe Produto, somente o método abstrato;
+
+SOLID:
+S - significa ter várias classes com poucos códigos e organização
+O - criar mecanismos para permitir escalabilidade, permitir crescimento do sistema, usar interfaces
+L - não pode ter -> classe derivada pode ser substituível pela classe base, faça testes unitários, herança, interface, generalização
+I - segregação de interface, muitos métodos não é bom!! Por excesso de métodos, utilize o I, segregue, separe a interface, cada uma com métodos distintos;
+D - Inversão de dependência, melhor depender de uma interface, que é algo mais genérico, só tem método, e ter uma variável chamada interface e que referencie a interface, para somente utilizar o método, usando a variável do tipo interface.
+
+código limpo!!
